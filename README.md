@@ -13,3 +13,17 @@ Poi è possibile eseguire il programma prodotto con il comando:
 ./example
 ```
 Tuttavia, almeno per gli inizi si consiglia di affidarsi ad un IDE (Integrated Development Enviroment) che semplifichi il lavoro.
+
+### Programma degli esempi
+1. Programma base in C++  le sue componenti
+2. Tipi di dato primitivi
+3. Conversioni tra i tipi
+4. Vettori
+5. Stringhe
+6. Matrici
+7. Record
+
+### Programma degli esercizi
+* Gli esercizi facili
+* Quelli medi
+* Infine quelli difficili
